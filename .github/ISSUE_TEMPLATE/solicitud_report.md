@@ -1,7 +1,9 @@
-name: "✨ Mejora Propuesta"  
-about: "Proponer una mejora para optimizar el proyecto."  
-title: "[MEJORA] - Descripción corta de la mejora"  
-labels: enhancement  
+---
+
+name: "🐛 Solicitud Report"
+about: "Reportar una solicitud para ayudarnos a mejorar el proyecto."
+title: "[fix] - Descripción corta de la solicitud"
+labels: feature
 assignees: ""
 
 ---
